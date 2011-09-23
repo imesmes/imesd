@@ -7,7 +7,7 @@ gem 'rails', '3.1.0'
 
 gem 'sqlite3'
 gem 'mustache'
-gem 'stache'
+gem 'mustache_rails3', :git => 'git://github.com/parallel588/mustache_rails3.git'
 gem 'passenger'
 
 
